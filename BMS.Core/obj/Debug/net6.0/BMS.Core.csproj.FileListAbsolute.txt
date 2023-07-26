@@ -1,0 +1,12 @@
+D:\C#_project\BMSApp\BMS.Core\bin\Debug\net6.0\BMS.Core.deps.json
+D:\C#_project\BMSApp\BMS.Core\bin\Debug\net6.0\BMS.Core.dll
+D:\C#_project\BMSApp\BMS.Core\bin\Debug\net6.0\BMS.Core.pdb
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.csproj.AssemblyReference.cache
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.AssemblyInfoInputs.cache
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.AssemblyInfo.cs
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.csproj.CoreCompileInputs.cache
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.dll
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\refint\BMS.Core.dll
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\BMS.Core.pdb
+D:\C#_project\BMSApp\BMS.Core\obj\Debug\net6.0\ref\BMS.Core.dll

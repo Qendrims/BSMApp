@@ -1,0 +1,17 @@
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Repo.deps.json
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Repo.runtimeconfig.json
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Repo.dll
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Repo.pdb
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Core.dll
+D:\C#_project\BMSApp\BMS.Repo\bin\Debug\net6.0\BMS.Core.pdb
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.csproj.AssemblyReference.cache
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.AssemblyInfoInputs.cache
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.AssemblyInfo.cs
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.csproj.CoreCompileInputs.cache
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.csproj.CopyComplete
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.dll
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\refint\BMS.Repo.dll
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.pdb
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\BMS.Repo.genruntimeconfig.cache
+D:\C#_project\BMSApp\BMS.Repo\obj\Debug\net6.0\ref\BMS.Repo.dll
